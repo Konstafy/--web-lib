@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  --bg-color: #121212;
+  font-family: 'Arial Narrow Bold', sans-serif;
+  font-size: 18px;
+  text-decoration: none;
+}
+html{
+  background-color: #212121;
+}
+.active li p{
+  color: #33bd8f;
+}
+
