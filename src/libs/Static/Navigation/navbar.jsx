@@ -1,4 +1,4 @@
-import cl from '.navbar.module.css'
+import cl from '.navbar.module.sass'
 
 let Navbar = (props) => {
     return (
